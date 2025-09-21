@@ -2,7 +2,7 @@
 
 This Repository URL consists the Source Code of the Project "Basic Candidate Management System".
 
-### Project Description:
+### -> Project Description:
 
 ● In this Project, I had implemented fully functional "Basic Candidate Management System".
 
@@ -12,7 +12,7 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 
 
 
-### Project Outcomes:
+### -> Project Outcomes:
 
 ● A Front-end: A dedicated Front-end that provides a user interface using modern component framework. 
 
@@ -22,7 +22,7 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 
 
 
-### Technology Stack :
+### -> Technology Stack :
 
 ● Front-end: React.js 19, BootStrap + CSS, Axios
 
@@ -33,7 +33,7 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 ● Build-Tools: Maven(Back-end), npm(Front-end).
 
 
-### Project Setup Instructions:
+### -> Project Setup Instructions:
 
 To Setup this Project, follow the below steps:
 
@@ -60,7 +60,7 @@ spring.jpa.hibernate.ddl-auto=update
 4. Run the frontend:   npm run dev
     
 
-### API Overview:
+### -> API Overview:
 | Method | Endpoint               | Description            |
 | ------ | ---------------------- | ---------------------- |
 | GET    | `/api/candidates`      | Get all candidates     |

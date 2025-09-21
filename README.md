@@ -23,7 +23,24 @@ Project Outcomes:
 
 
 
+Technology Stack Used:
+
+● Front-end: React js 19.1.1 (Framework) with BootStrap 5 and CSS(for styling)
+
+● Back-end: Java 17 with Spring Boot 3.5.6
+
+● Database: MySQl Database (For Storing and Managing the data)
+
+
+
 Project Setup Instructions:
+
+To Setup this Project, follow the below steps:
+
+● Front-end:
+
+1. Go to Official Node.js wesite and go to Downloads and choose your Operating System(In my Case it's Windows) and download the Installer(Windows Installer.msi) as shown.
+<img width="1916" height="1139" alt="image" src="https://github.com/user-attachments/assets/c35fde78-4edc-4edc-b52a-2830e168df4c" />
 
 
 

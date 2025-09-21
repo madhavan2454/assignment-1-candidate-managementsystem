@@ -42,6 +42,18 @@ To Setup this Project, follow the below steps:
 1. Clone the Repository:
    https://github.com/madhavan2454/assignment-1-candidate-managementsystem/
 
+2. Configure application.properties
+   spring.datasource.url=jdbc:mysql://localhost:3306/candidate_db
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+spring.jpa.hibernate.ddl-auto=update
+
+3. Run the Backend:
+   Open the code in Visual Studio Code and run the application.  
+
+
+● Front-end (React.js):
+
 1. Go to Official Node.js wesite and go to Downloads and choose your Operating System(In my Case it's Windows) and download the Installer(Windows Installer.msi) as shown below.
 <img width="1916" height="1139" alt="image" src="https://github.com/user-attachments/assets/c35fde78-4edc-4edc-b52a-2830e168df4c" />
 2. Create a New React App using vite(Fast and Modern) using the command "npm create vite@latest app-name".(Replace the app-name with the your application name. Ex: cms-frontend).

@@ -63,8 +63,8 @@ spring.jpa.hibernate.ddl-auto=update
 ### -> API Overview:
 | Method | Endpoint               | Description            |
 | ------ | ---------------------- | ---------------------- |
-| GET    | `/api/candidates`      | Get all candidates     |
-| GET    | `/api/candidates/{id}` | Get candidate by ID    |
+| GET    | `/api/candidates`      | Get the list of all candidates     |
+| GET    | `/api/candidates/{id}` | Get candidate details by ID    |
 | POST   | `/api/candidates`      | Add a new candidate    |
 | PUT    | `/api/candidates/{id}` | Update candidate by ID |
 | DELETE | `/api/candidates/{id}` | Delete candidate by ID |

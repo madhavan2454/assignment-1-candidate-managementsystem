@@ -1,9 +1,4 @@
-##############Candidate Management System##############
-
-
-
-
-
+      -------------------Basic Candidate Management System---------------------
 
 
 
@@ -17,9 +12,6 @@
 
 
 
-
-
-
 #####Project Outcomes:##### 
 
 ● A Front-end: A dedicated Front-end that provides a user interface using modern component framework. 
@@ -30,7 +22,7 @@
 
 
 
+Project Setup Instructions:
 
 
 
-#####Project Setup Instructions:#####

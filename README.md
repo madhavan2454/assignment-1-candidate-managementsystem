@@ -42,10 +42,10 @@ To Setup this Project, follow the below steps:
 1. Clone the Repository:
    https://github.com/madhavan2454/assignment-1-candidate-managementsystem/
 
-2. Configure application.properties: /n
-   spring.datasource.url=jdbc:mysql://localhost:3306/candidate_db /n
-spring.datasource.username=root /n
-spring.datasource.password=yourpassword /n
+2. Configure application.properties:   
+   spring.datasource.url=jdbc:mysql://localhost:3306/cms   
+spring.datasource.username=root   
+spring.datasource.password=yourpassword    
 spring.jpa.hibernate.ddl-auto=update
 
 4. Run the Backend:

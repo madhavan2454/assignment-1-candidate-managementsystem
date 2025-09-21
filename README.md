@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 #####Project Description:#####
 
 ● In this Project, I had implemented fully functional "Basic Candidate Management System".
@@ -13,6 +17,9 @@
 
 
 
+
+
+
 #####Project Outcomes:##### 
 
 ● A Front-end: A dedicated Front-end that provides a user interface using modern component framework. 
@@ -20,6 +27,10 @@
 ● A Back-end API: A Backend server that is built to handle requests using REST APIs. 
 
 ● A Database: A SQL database that stores the candidate information.
+
+
+
+
 
 
 #####Project Setup Instructions:#####

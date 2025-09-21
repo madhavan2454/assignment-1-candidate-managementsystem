@@ -55,13 +55,9 @@ spring.jpa.hibernate.ddl-auto=update
 ● Front-end (React.js):
 
 1. Install Node.js from it's official website.
-2. Navigate to the frontend folder:
-3. 
-   cd /cms-frontend
-4. Install dependencies:
-   npm install.
-5. Run the frontend:
-   npm run dev
+2. Navigate to the frontend folder:   cd /cms-frontend
+3. Install dependencies:   npm install
+4. Run the frontend:   npm run dev
     
 
 

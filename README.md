@@ -56,11 +56,11 @@ spring.jpa.hibernate.ddl-auto=update
 
 1. Go to Official Node.js wesite and go to Downloads and choose your Operating System(In my Case it's Windows) and download the Installer(Windows Installer.msi) as shown below.
 <img width="1916" height="1139" alt="image" src="https://github.com/user-attachments/assets/c35fde78-4edc-4edc-b52a-2830e168df4c" />
-2. Navigate to the frontend folder   
-   cd cms-frontend/   
-3. Install dependencies:   
-   npm start   
-4. Run the frontend:   
-   npm run dev   
+2. Navigate to the frontend folder
+3. cd /cms-frontend
+4. Install dependencies:
+5. npm install
+6. Run the frontend:
+7. npm run dev   
 
 

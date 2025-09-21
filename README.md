@@ -1,6 +1,6 @@
       -------------------Basic Candidate Management System---------------------
 
-
+This Repository URL consists the Source Code of the Project "Basic Candidate Management System".
 
     Project Description:
 

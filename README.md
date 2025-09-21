@@ -24,22 +24,29 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 
 ### Technology Stack :
 
-● Front-end: React js 19.1.1 (Framework) with BootStrap 5 and CSS(for styling)
+● Front-end: React.js 19, BootStrap + CSS, Axios
 
-● Back-end: Java 17 with Spring Boot 3.5.6
+● Back-end: Java 17 with Spring Boot 3.5.6, Spring Data JPA.
 
-● Database: MySQl Database (For Storing and Managing the data)
+● Database: MySQl Database.
 
+● Build-Tools: Maven(Back-end), npm(Front-end).
 
 
 ### Project Setup Instructions:
 
 To Setup this Project, follow the below steps:
 
-● Front-end:
+● Back-end (Spring Boot):
 
-1. Go to Official Node.js wesite and go to Downloads and choose your Operating System(In my Case it's Windows) and download the Installer(Windows Installer.msi) as shown.
+1. Clone the Repository:
+   https://madhavan2454/assignment-1-candidate-managementsystem/
+
+1. Go to Official Node.js wesite and go to Downloads and choose your Operating System(In my Case it's Windows) and download the Installer(Windows Installer.msi) as shown below.
 <img width="1916" height="1139" alt="image" src="https://github.com/user-attachments/assets/c35fde78-4edc-4edc-b52a-2830e168df4c" />
+2. Create a New React App using vite(Fast and Modern) using the command "npm create vite@latest app-name".(Replace the app-name with the your application name. Ex: cms-frontend).
+3. Install the dependencies like axios, bootstrap and react-router-dom etc.
+4. Finally, after developing the application, use the command "npm run dev" to run the application.
 
 
 

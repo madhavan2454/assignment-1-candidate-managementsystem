@@ -8,7 +8,7 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 
 ● I had created a system to store, view, and organize information about job candidates.
 
-● The core of this project is perform "CRUD" Operations, which stands for Create, Read, Update, and Delete.
+● The core of this project is to perform "CRUD" Operations, which stands for Create, Read, Update, and Delete.
 
 
 

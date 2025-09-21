@@ -1,13 +1,8 @@
-#######################################################################
-#             Basic Candidate Management System                #######
-#######################################################################
-
+#             Basic Candidate Management System                
 
 This Repository URL consists the Source Code of the Project "Basic Candidate Management System".
 
-#############################
 ### Project Description:
-#############################
 
 ● In this Project, I had implemented fully functional "Basic Candidate Management System".
 
@@ -16,9 +11,8 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 ● The core of this project is perform "CRUD" Operations, which stands for Create, Read, Update, and Delete.
 
 
-#############################
+
 ### Project Outcomes:
-#############################
 
 ● A Front-end: A dedicated Front-end that provides a user interface using modern component framework. 
 
@@ -28,9 +22,7 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 
 
 
-#############################
 ### Technology Stack :
-#############################
 
 ● Front-end: React js 19.1.1 (Framework) with BootStrap 5 and CSS(for styling)
 
@@ -40,9 +32,7 @@ This Repository URL consists the Source Code of the Project "Basic Candidate Man
 
 
 
-##################################
-## Project Setup Instructions:
-##################################
+### Project Setup Instructions:
 
 To Setup this Project, follow the below steps:
 

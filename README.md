@@ -56,9 +56,12 @@ spring.jpa.hibernate.ddl-auto=update
 
 1. Go to Official Node.js wesite and go to Downloads and choose your Operating System(In my Case it's Windows) and download the Installer(Windows Installer.msi) as shown below.
 <img width="1916" height="1139" alt="image" src="https://github.com/user-attachments/assets/c35fde78-4edc-4edc-b52a-2830e168df4c" />
-2. Create a New React App using vite(Fast and Modern) using the command "npm create vite@latest app-name".(Replace the app-name with the your application name. Ex: cms-frontend).
-3. Install the dependencies like axios, bootstrap and react-router-dom etc.
-4. Finally, after developing the application, use the command "npm run dev" to run the application.
+2. Navigate to the frontend folder
+   cd cms-frontend/
+3. Install dependencies:
+   npm start
+4. Run the frontend:
+   npm run dev 
 
 
 

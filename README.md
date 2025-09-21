@@ -40,7 +40,7 @@ To Setup this Project, follow the below steps:
 ● Back-end (Spring Boot):
 
 1. Clone the Repository:
-   https://madhavan2454/assignment-1-candidate-managementsystem/
+   https://github.com/madhavan2454/assignment-1-candidate-managementsystem/
 
 1. Go to Official Node.js wesite and go to Downloads and choose your Operating System(In my Case it's Windows) and download the Installer(Windows Installer.msi) as shown below.
 <img width="1916" height="1139" alt="image" src="https://github.com/user-attachments/assets/c35fde78-4edc-4edc-b52a-2830e168df4c" />

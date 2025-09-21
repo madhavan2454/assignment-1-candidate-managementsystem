@@ -40,7 +40,7 @@ To Setup this Project, follow the below steps:
 ● Back-end (Spring Boot):
 
 1. Clone the Repository:
-   https://github.com/madhavan2454/assignment-1-candidate-managementsystem/
+   https://github.com/madhavan2454/assignment-1-candidate-managementsystem.git
 
 2. Configure application.properties:   
    spring.datasource.url=jdbc:mysql://localhost:3306/cms   

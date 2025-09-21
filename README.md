@@ -60,4 +60,13 @@ spring.jpa.hibernate.ddl-auto=update
 4. Run the frontend:   npm run dev
     
 
+### API Overview:
+| Method | Endpoint               | Description            |
+| ------ | ---------------------- | ---------------------- |
+| GET    | `/api/candidates`      | Get all candidates     |
+| GET    | `/api/candidates/{id}` | Get candidate by ID    |
+| POST   | `/api/candidates`      | Add a new candidate    |
+| PUT    | `/api/candidates/{id}` | Update candidate by ID |
+| DELETE | `/api/candidates/{id}` | Delete candidate by ID |
+
 
